@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SteamManifestDownloader" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/steam_accent</item>
+        <item name="colorPrimaryVariant">@color/steam_accent_dark</item>
+        <item name="colorOnPrimary">@color/steam_text_primary</item>
+        <item name="android:statusBarColor">@color/steam_dark_bg</item>
+        <item name="android:navigationBarColor">@color/steam_dark_bg</item>
+        <item name="android:windowBackground">@color/steam_dark_bg</item>
+    </style>
+</resources>

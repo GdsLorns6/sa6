@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Steam Manifest Downloader</string>
+    <string name="channel_download_name">Active Downloads</string>
+    <string name="channel_download_desc">Notifications showing live download progress and speed</string>
+    <string name="channel_alerts_name">Download Alerts</string>
+    <string name="channel_alerts_desc">Alerts when a download finishes or encounters an error</string>
+    <string name="notification_downloading">Downloading…</string>
+    <string name="notification_complete_title">Download Complete 🎮</string>
+    <string name="notification_error_title">Download Failed</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_open_folder">Open Folder</string>
+</resources>

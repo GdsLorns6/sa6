@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="steam_dark_bg">#171a21</color>
+    <color name="steam_card_bg">#1b2838</color>
+    <color name="steam_accent">#4f6ef7</color>
+    <color name="steam_accent_dark">#3751cc</color>
+    <color name="steam_text_primary">#FFFFFF</color>
+    <color name="steam_text_secondary">#8F98A0</color>
+</resources>

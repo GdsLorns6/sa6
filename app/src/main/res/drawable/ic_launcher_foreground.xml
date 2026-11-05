@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Blue Rounded Container -->
+    <path
+        android:fillColor="#4F6EF7"
+        android:pathData="M32,24 L76,24 A8,8 0 0 1 84,32 L84,76 A8,8 0 0 1 76,84 L32,84 A8,8 0 0 1 24,76 L24,32 A8,8 0 0 1 32,24 Z" />
+    <!-- Down Arrow Line -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,36 L54,60" />
+    <!-- Arrow Head -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M44,52 L54,62 L64,52" />
+    <!-- Base Line -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M40,70 L68,70" />
+</vector>
